@@ -6,3 +6,6 @@ bin
 
 # golang vendor (dependencies) directory
 vendor
+
+# ensures our local copy is never committed
+env.yml
