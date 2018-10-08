@@ -1,4 +1,4 @@
-# skill-sample-go-fact
+# WIP skill-sample-go-fact
 
 This is an example fact skill implemented as an AWS Lambda in Go. It is not currently at parity with [skill-sample-nodejs-fact](https://github.cot/alexa/skill-sample-nodejs-fact), but should serve as a reasonable start.
 
@@ -19,3 +19,4 @@ With no official skills kit in Go, the request and response is handled manually 
 * [alexa-sdk-go](https://gitlab.com/dasjott/alexa-sdk-go)
 * [alexa-skills-kit-golang](https://github.com/ericdaugherty/alexa-skills-kit-golang)
 * [alexa-go](https://github.com/arienmalec/alexa-go)
+
